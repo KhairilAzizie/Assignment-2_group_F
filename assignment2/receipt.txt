@@ -1,0 +1,24 @@
+-------------------------------------------------------
+          	Your Order Reference No is
+
+		     			2
+-------------------------------------------------------
+    	Welcome to M Malacca Restaurant
+
+    	Lot 4588 Bandaraya Melaka 
+
+                	75450 Melaka
+              	TEL :  0123456789
+                	TAX INVOICE
+
+Order ID : 0
+Time	 : 2021/04/28 21:41:11
+Take Away
+
+QTY  ITEM                                    PRICE               
+2    null                                    RM   16.20
+                                       Total RM   16.20
+Credit Card No:**** **** **** 3456
+
+			Thank You!!Please Come Again!!!
+		Customer Service Hotline : 06-2134 214
